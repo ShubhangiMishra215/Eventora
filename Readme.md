@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ShubhangiMishra215/Eventora.git)
+- Live Site URL:(https://eventora-alpha.vercel.app/)
 
 ## My process
 
@@ -68,4 +68,4 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [@ShubhangiMishra215](https://github.com/yourusername)
+- GitHub - [@ShubhangiMishra215](https://github.com/ShubhangiMishra215)
