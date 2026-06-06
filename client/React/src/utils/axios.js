@@ -2,7 +2,7 @@ import axios from "axios";
 
 const api = axios.create({
     baseURL: 'https://eventora-xa0v.onrender.com',
-    headers: {  // ← was 'header'
+    headers: {  
         'Content-Type': 'application/json',
     },
 });
